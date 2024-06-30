@@ -5,8 +5,8 @@
 ## 📈 My GitHub Stats
 
 <div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sarahculpepper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="sarahculpepper's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarahculpepper&theme=tokyonight&hide_border=true" alt="sarahculpepper's Streak" height="165">
-  </p>
+    <img src="https://github-readme-stats.vercel.app/api?username=sarahculpepper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="sarahculpepper's Stats" height="141">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarahculpepper&theme=tokyonight&hide_border=true" alt="sarahculpepper's Streak" height="141">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahculpepper&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="141">
 </div>
+
