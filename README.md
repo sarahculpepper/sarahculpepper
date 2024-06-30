@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Sarah Culpepper
-- 🌱 I’m currently a Senior Computer Science student at the University of Louisiana at Lafayette with a concentration in Cyber Security.
+- 🌱 I’m currently a Senior Computer Science student at the University of Louisiana at Lafayette.
 - 📫 How to reach me: sarah.culpepper2022@gmail.com
